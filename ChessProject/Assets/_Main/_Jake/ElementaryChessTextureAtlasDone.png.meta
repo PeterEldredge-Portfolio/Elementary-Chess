@@ -1,0 +1,716 @@
+fileFormatVersion: 2
+guid: 1790be90ebbde7d40af78a513ca81055
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -433780912912346140
+    second: Logo
+  - first:
+      213: 7673978596114643583
+    second: ElementaryChessTextureAtlasDone_1
+  - first:
+      213: -7236946937177495560
+    second: ElementaryChessTextureAtlasDone_2
+  - first:
+      213: -4966661767892105111
+    second: ElementaryChessTextureAtlasDone_3
+  - first:
+      213: -3149728418222567737
+    second: ElementaryChessTextureAtlasDone_4
+  - first:
+      213: -2686267101695456302
+    second: ElementaryChessTextureAtlasDone_5
+  - first:
+      213: 247409925200368325
+    second: ElementaryChessTextureAtlasDone_6
+  - first:
+      213: -957916585638906507
+    second: Logo
+  - first:
+      213: -6198091598001811494
+    second: ElementaryChessTextureAtlasDone_1
+  - first:
+      213: 7522516171644186996
+    second: ElementaryChessTextureAtlasDone_2
+  - first:
+      213: 2303869919415682183
+    second: ElementaryChessTextureAtlasDone_3
+  - first:
+      213: 8342832640791117694
+    second: ElementaryChessTextureAtlasDone_4
+  - first:
+      213: -6090639850471548286
+    second: ElementaryChessTextureAtlasDone_5
+  - first:
+      213: 3714636741729837790
+    second: ElementaryChessTextureAtlasDone_7
+  - first:
+      213: -8603829057169751043
+    second: ElementaryChessTextureAtlasDone_8
+  - first:
+      213: 6814123344117084665
+    second: ElementaryChessTextureAtlasDone_9
+  - first:
+      213: -1746288996235807711
+    second: ElementaryChessTextureAtlasDone_10
+  - first:
+      213: -6006907767089652747
+    second: ElementaryChessTextureAtlasDone_11
+  - first:
+      213: 2677555851927772363
+    second: ElementaryChessTextureAtlasDone_12
+  - first:
+      213: 949167878180937290
+    second: ElementaryChessTextureAtlasDone_13
+  - first:
+      213: -9172434422720630907
+    second: ElementaryChessTextureAtlasDone_14
+  - first:
+      213: -7283186947412559604
+    second: ElementaryChessTextureAtlasDone_15
+  - first:
+      213: 1166235390282806829
+    second: ElementaryChessTextureAtlasDone_16
+  - first:
+      213: -2206003434084186644
+    second: ElementaryChessTextureAtlasDone_17
+  - first:
+      213: 4840998534408359446
+    second: ElementaryChessTextureAtlasDone_18
+  - first:
+      213: 7365020254816216301
+    second: ElementaryChessTextureAtlasDone_19
+  - first:
+      213: -2884531927403369112
+    second: ElementaryChessTextureAtlasDone_20
+  - first:
+      213: -7108540316156347298
+    second: ElementaryChessTextureAtlasDone_21
+  - first:
+      213: -3103566198002038732
+    second: ElementaryChessTextureAtlasDone_22
+  - first:
+      213: -8173050247391572253
+    second: ElementaryChessTextureAtlasDone_23
+  - first:
+      213: -3984376741729714941
+    second: ElementaryChessTextureAtlasDone_24
+  - first:
+      213: -7915537916390127975
+    second: ElementaryChessTextureAtlasDone_25
+  - first:
+      213: 4131422116916055894
+    second: ElementaryChessTextureAtlasDone_26
+  - first:
+      213: 3325621452725108053
+    second: ElementaryChessTextureAtlasDone_27
+  - first:
+      213: 5265843436378292287
+    second: ElementaryChessTextureAtlasDone_28
+  - first:
+      213: -1548319276776473978
+    second: ElementaryChessTextureAtlasDone_29
+  - first:
+      213: -5674855014258632558
+    second: Ice
+  - first:
+      213: -6043924763958728066
+    second: Black_Border
+  - first:
+      213: 8169597621175686495
+    second: White_Border
+  - first:
+      213: -3961686313172544235
+    second: Black
+  - first:
+      213: -6555201111222235861
+    second: White
+  - first:
+      213: -1375519034580329917
+    second: Water
+  - first:
+      213: -4252843587658048179
+    second: Pawn_White
+  - first:
+      213: -5231579581634880489
+    second: Knight_White
+  - first:
+      213: 6265215848490268232
+    second: Rook_White
+  - first:
+      213: -6043918353466805572
+    second: Bishop_White
+  - first:
+      213: -7028468108605664611
+    second: King_White
+  - first:
+      213: -3826754432239780442
+    second: Queen_White
+  - first:
+      213: 4218113102883355355
+    second: Lava
+  - first:
+      213: 5287680448926322839
+    second: Pawn_Black
+  - first:
+      213: 1195837068803300608
+    second: Knight_Black
+  - first:
+      213: -4850914362901937498
+    second: Rook_Black
+  - first:
+      213: -1820515382813050697
+    second: Bishop_Black
+  - first:
+      213: -2703926190704151117
+    second: King_Black
+  - first:
+      213: -6423373682404931695
+    second: Queen_Black
+  - first:
+      213: 7316175688891661276
+    second: ElementaryChessTextureAtlasDone_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29815436e6dde31b0800000000000000
+      internalID: -5674855014258632558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Border
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aad03037aaf1ca0800000000000000
+      internalID: -6043924763958728066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Border
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f559d0880cd306170800000000000000
+      internalID: 8169597621175686495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515d2dfb9434509c0800000000000000
+      internalID: -3961686313172544235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d4a5ef15f3705a0800000000000000
+      internalID: -6555201111222235861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a1d02d9bc29ece0800000000000000
+      internalID: -1375519034580329917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn_White
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d18502a4ddaf4c0800000000000000
+      internalID: -4252843587658048179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_White
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c577ea612b567b0800000000000000
+      internalID: -5231579581634880489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rook_White
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846f862ae9482f650800000000000000
+      internalID: 6265215848490268232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bishop_White
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2b5229740bf1ca0800000000000000
+      internalID: -6043918353466805572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_White
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92d56f5e7dd57e90800000000000000
+      internalID: -7028468108605664611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen_White
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad32bf6e13a4eac0800000000000000
+      internalID: -3826754432239780442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda78cfb48fb98a30800000000000000
+      internalID: 4218113102883355355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn_Black
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790180c5a5d916940800000000000000
+      internalID: 5287680448926322839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Black
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dd34f6a77789010800000000000000
+      internalID: 1195837068803300608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rook_Black
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2c36396171eacb0800000000000000
+      internalID: -4850914362901937498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bishop_Black
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b83b43a7ea3cb6e0800000000000000
+      internalID: -1820515382813050697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Black
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b53430a479b97ad0800000000000000
+      internalID: -2703926190704151117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queen_Black
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19749a81ba79bd6a0800000000000000
+      internalID: -6423373682404931695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 1024
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575b98cc0fbc4b2f0800000000000000
+      internalID: -957916585638906507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

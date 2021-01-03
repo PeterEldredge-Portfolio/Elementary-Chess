@@ -1,0 +1,746 @@
+fileFormatVersion: 2
+guid: 3b28e9e671fcf744f8bf7b48812cef83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4748505139027947563
+    second: Logo
+  - first:
+      213: -2408809437043094513
+    second: ElementaryChessTextureAtlas_1
+  - first:
+      213: 3167859335278260523
+    second: ElementaryChessTextureAtlas_2
+  - first:
+      213: -6763644851333144258
+    second: ElementaryChessTextureAtlas_3
+  - first:
+      213: -7227937666810654417
+    second: ElementaryChessTextureAtlas_4
+  - first:
+      213: -7314464095972639454
+    second: ElementaryChessTextureAtlas_5
+  - first:
+      213: -4619457935507366644
+    second: ElementaryChessTextureAtlas_6
+  - first:
+      213: -3520293017555808960
+    second: ElementaryChessTextureAtlas_7
+  - first:
+      213: -4755911182348897258
+    second: ElementaryChessTextureAtlas_8
+  - first:
+      213: 3643289968340296790
+    second: ElementaryChessTextureAtlas_9
+  - first:
+      213: -6853977876517417577
+    second: ElementaryChessTextureAtlas_10
+  - first:
+      213: 213017417840248986
+    second: ElementaryChessTextureAtlas_11
+  - first:
+      213: -7975465259234059324
+    second: ElementaryChessTextureAtlas_12
+  - first:
+      213: -8626895489250181419
+    second: ElementaryChessTextureAtlas_13
+  - first:
+      213: -8925600416630597031
+    second: ElementaryChessTextureAtlas_14
+  - first:
+      213: -716210063629748290
+    second: ElementaryChessTextureAtlas_15
+  - first:
+      213: -2693052032442864008
+    second: ElementaryChessTextureAtlas_16
+  - first:
+      213: 1301921611153884063
+    second: ElementaryChessTextureAtlas_17
+  - first:
+      213: -2563848190694209833
+    second: ElementaryChessTextureAtlas_18
+  - first:
+      213: -6133590201816876680
+    second: ElementaryChessTextureAtlas_19
+  - first:
+      213: 690729113917967388
+    second: ElementaryChessTextureAtlas_20
+  - first:
+      213: -3066985703622872524
+    second: ElementaryChessTextureAtlas_21
+  - first:
+      213: -2757511686487329569
+    second: ElementaryChessTextureAtlas_22
+  - first:
+      213: -5012333920026337274
+    second: ElementaryChessTextureAtlas_23
+  - first:
+      213: -3406732799165501334
+    second: ElementaryChessTextureAtlas_24
+  - first:
+      213: 7963933624926939504
+    second: ElementaryChessTextureAtlas_25
+  - first:
+      213: 8975413589031972888
+    second: ElementaryChessTextureAtlas_26
+  - first:
+      213: 5426204405576191187
+    second: ElementaryChessTextureAtlas_27
+  - first:
+      213: 9132050379816188934
+    second: ElementaryChessTextureAtlas_28
+  - first:
+      213: -3466843875229344896
+    second: ElementaryChessTextureAtlas_29
+  - first:
+      213: -1762580169614087107
+    second: Water_Old
+  - first:
+      213: -6194686515285389226
+    second: Black_Border
+  - first:
+      213: 2016915057527689567
+    second: White_Border
+  - first:
+      213: -3600538893058447640
+    second: Black_NoBorder
+  - first:
+      213: -934104825672730939
+    second: White_NoBorder
+  - first:
+      213: 3182894493858258470
+    second: Tile_ Water
+  - first:
+      213: -4449513742712210044
+    second: Pawn_Water
+  - first:
+      213: 8165097368184834313
+    second: Tile_Fire
+  - first:
+      213: 696658804338477791
+    second: Pawn_Fire
+  - first:
+      213: 7459001300076013436
+    second: ElementaryChessTextureAtlas_39
+  - first:
+      213: -2346368304977153984
+    second: ElementaryChessTextureAtlas_40
+  - first:
+      213: -1534935293322864074
+    second: ElementaryChessTextureAtlas_41
+  - first:
+      213: -243405575097482175
+    second: ElementaryChessTextureAtlas_42
+  - first:
+      213: -1089171634298721304
+    second: ElementaryChessTextureAtlas_43
+  - first:
+      213: 3830095584462159279
+    second: ElementaryChessTextureAtlas_44
+  - first:
+      213: -5463353759375327754
+    second: ElementaryChessTextureAtlas_45
+  - first:
+      213: 1021910006591617057
+    second: ElementaryChessTextureAtlas_46
+  - first:
+      213: -3691298890152214041
+    second: ElementaryChessTextureAtlas_47
+  - first:
+      213: -5527092835235898439
+    second: ElementaryChessTextureAtlas_48
+  - first:
+      213: 1570036179007623855
+    second: ElementaryChessTextureAtlas_49
+  - first:
+      213: 8897576122788710132
+    second: ElementaryChessTextureAtlas_50
+  - first:
+      213: -3021429081133860462
+    second: ElementaryChessTextureAtlas_51
+  - first:
+      213: 4571624526184350374
+    second: ElementaryChessTextureAtlas_52
+  - first:
+      213: -102740127529899536
+    second: ElementaryChessTextureAtlas_53
+  - first:
+      213: -4886501214196662014
+    second: ElementaryChessTextureAtlas_54
+  - first:
+      213: -4328626760434185104
+    second: ElementaryChessTextureAtlas_55
+  - first:
+      213: -773923162301757463
+    second: ElementaryChessTextureAtlas_56
+  - first:
+      213: 1514045709254471307
+    second: ElementaryChessTextureAtlas_57
+  - first:
+      213: 8928448364517326357
+    second: ElementaryChessTextureAtlas_58
+  - first:
+      213: 9068371148685946179
+    second: ElementaryChessTextureAtlas_59
+  - first:
+      213: 4196289123805843867
+    second: ElementaryChessTextureAtlas_60
+  - first:
+      213: 2361321934471277789
+    second: ElementaryChessTextureAtlas_61
+  - first:
+      213: -3476346318503692058
+    second: ElementaryChessTextureAtlas_62
+  - first:
+      213: -3682273710804955597
+    second: ElementaryChessTextureAtlas_63
+  - first:
+      213: -8770572637948695387
+    second: ElementaryChessTextureAtlas_64
+  - first:
+      213: -1641094107999825817
+    second: ElementaryChessTextureAtlas_65
+  - first:
+      213: 3251753429581944176
+    second: ElementaryChessTextureAtlas_66
+  - first:
+      213: -1939436241043203730
+    second: ElementaryChessTextureAtlas_67
+  - first:
+      213: 1748448188795947058
+    second: ElementaryChessTextureAtlas_68
+  - first:
+      213: -3047029285241514388
+    second: ElementaryChessTextureAtlas_69
+  - first:
+      213: 6283385760892767586
+    second: ElementaryChessTextureAtlas_70
+  - first:
+      213: -8951520546674467762
+    second: ElementaryChessTextureAtlas_71
+  - first:
+      213: -4773945366962412327
+    second: ElementaryChessTextureAtlas_72
+  - first:
+      213: -4876646698149479490
+    second: ElementaryChessTextureAtlas_73
+  - first:
+      213: -4525170602394312996
+    second: ElementaryChessTextureAtlas_74
+  - first:
+      213: -5830635373469114660
+    second: ElementaryChessTextureAtlas_75
+  - first:
+      213: -1344544518677083299
+    second: ElementaryChessTextureAtlas_76
+  - first:
+      213: -4727690208307144079
+    second: ElementaryChessTextureAtlas_77
+  - first:
+      213: -2891182932493659579
+    second: ElementaryChessTextureAtlas_78
+  - first:
+      213: -6021568994987288905
+    second: ElementaryChessTextureAtlas_79
+  - first:
+      213: 7686498295177502083
+    second: ElementaryChessTextureAtlas_80
+  - first:
+      213: -3418217620375043000
+    second: ElementaryChessTextureAtlas_81
+  - first:
+      213: 7068583472373675810
+    second: ElementaryChessTextureAtlas_82
+  - first:
+      213: 4720250464521210256
+    second: ElementaryChessTextureAtlas_83
+  - first:
+      213: 6674687584532921200
+    second: ElementaryChessTextureAtlas_84
+  - first:
+      213: -424991626757682930
+    second: ElementaryChessTextureAtlas_85
+  - first:
+      213: -2374286207620568887
+    second: ElementaryChessTextureAtlas_86
+  - first:
+      213: -283751362588560531
+    second: ElementaryChessTextureAtlas_87
+  - first:
+      213: 5757689141625610138
+    second: ElementaryChessTextureAtlas_88
+  - first:
+      213: -861773797668460288
+    second: ElementaryChessTextureAtlas_89
+  - first:
+      213: 2306630840408410550
+    second: ElementaryChessTextureAtlas_90
+  - first:
+      213: 1257443116482349404
+    second: ElementaryChessTextureAtlas_91
+  - first:
+      213: 3219656442265848388
+    second: ElementaryChessTextureAtlas_92
+  - first:
+      213: -4627316392529290109
+    second: ElementaryChessTextureAtlas_93
+  - first:
+      213: -6041098032351597284
+    second: ElementaryChessTextureAtlas_94
+  - first:
+      213: 8416386997989926483
+    second: ElementaryChessTextureAtlas_95
+  - first:
+      213: 3948647759611709895
+    second: ElementaryChessTextureAtlas_96
+  - first:
+      213: -7270532240206068442
+    second: ElementaryChessTextureAtlas_97
+  - first:
+      213: -5591764145477570360
+    second: ElementaryChessTextureAtlas_98
+  - first:
+      213: 7686044717058186743
+    second: ElementaryChessTextureAtlas_99
+  - first:
+      213: -4191134576386316213
+    second: ElementaryChessTextureAtlas_100
+  - first:
+      213: -8810118280321098668
+    second: ElementaryChessTextureAtlas_101
+  - first:
+      213: 8687252526730421163
+    second: ElementaryChessTextureAtlas_102
+  - first:
+      213: 4081380636091553490
+    second: ElementaryChessTextureAtlas_103
+  - first:
+      213: 3037302754930106101
+    second: ElementaryChessTextureAtlas_104
+  - first:
+      213: 1940697936533061697
+    second: ElementaryChessTextureAtlas_105
+  - first:
+      213: -4977520276626386177
+    second: ElementaryChessTextureAtlas_106
+  - first:
+      213: 2189881931242940919
+    second: ElementaryChessTextureAtlas_107
+  - first:
+      213: 8316804710998059637
+    second: ElementaryChessTextureAtlas_108
+  - first:
+      213: -6415014960039918892
+    second: ElementaryChessTextureAtlas_109
+  - first:
+      213: -6175623506307426263
+    second: ElementaryChessTextureAtlas_110
+  - first:
+      213: 7161279291158534098
+    second: ElementaryChessTextureAtlas_111
+  - first:
+      213: 5157540470118707190
+    second: ElementaryChessTextureAtlas_112
+  - first:
+      213: -5158787021993109510
+    second: ElementaryChessTextureAtlas_113
+  - first:
+      213: -2636454446612386155
+    second: ElementaryChessTextureAtlas_114
+  - first:
+      213: 3579434486354027817
+    second: ElementaryChessTextureAtlas_115
+  - first:
+      213: 2548498902246513386
+    second: ElementaryChessTextureAtlas_116
+  - first:
+      213: -45926929772808336
+    second: ElementaryChessTextureAtlas_117
+  - first:
+      213: -1280232284771674759
+    second: ElementaryChessTextureAtlas_118
+  - first:
+      213: 7185798914759997513
+    second: ElementaryChessTextureAtlas_119
+  - first:
+      213: 2428445775913809055
+    second: ElementaryChessTextureAtlas_120
+  - first:
+      213: -1807757865866657545
+    second: ElementaryChessTextureAtlas_121
+  - first:
+      213: 8950647166147147616
+    second: ElementaryChessTextureAtlas_122
+  - first:
+      213: 3194798492916880996
+    second: ElementaryChessTextureAtlas_123
+  - first:
+      213: -5382802537193618799
+    second: ElementaryChessTextureAtlas_124
+  - first:
+      213: -6919973633708110181
+    second: ElementaryChessTextureAtlas_125
+  - first:
+      213: 2510693641182601745
+    second: ElementaryChessTextureAtlas_126
+  - first:
+      213: -197672650788753752
+    second: ElementaryChessTextureAtlas_127
+  - first:
+      213: -1221983922667628853
+    second: ElementaryChessTextureAtlas_128
+  - first:
+      213: 6833044672557344232
+    second: ElementaryChessTextureAtlas_129
+  - first:
+      213: 5283487966634431584
+    second: ElementaryChessTextureAtlas_130
+  - first:
+      213: 3608796383911160662
+    second: ElementaryChessTextureAtlas_131
+  - first:
+      213: -5266792453667239718
+    second: ElementaryChessTextureAtlas_132
+  - first:
+      213: 1341683726632403428
+    second: ElementaryChessTextureAtlas_133
+  - first:
+      213: 4922453381550519741
+    second: ElementaryChessTextureAtlas_134
+  - first:
+      213: 1321141909748798919
+    second: ElementaryChessTextureAtlas_135
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Logo
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 1024
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20b0e9e34416e140800000000000000
+      internalID: 4748505139027947563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Old
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c210e9cae0a87e0800000000000000
+      internalID: -1762580169614087107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Border
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65013896f6d080aa0800000000000000
+      internalID: -6194686515285389226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Border
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51131a0f858dfb10800000000000000
+      internalID: 2016915057527689567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_NoBorder
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6e54704f0580ec0800000000000000
+      internalID: -3600538893058447640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_NoBorder
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c67cc23c946903f0800000000000000
+      internalID: -934104825672730939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_ Water
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ed7ffada9eb2c20800000000000000
+      internalID: 3182894493858258470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn_Water
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d7b6653d62042c0800000000000000
+      internalID: -4449513742712210044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Fire
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909422bbbc0405170800000000000000
+      internalID: 8165097368184834313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawn_Fire
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda4e32dd770ba900800000000000000
+      internalID: 696658804338477791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
